@@ -25,3 +25,5 @@ which component provides the first feedback on the quality of committed applicat
 which model is used in chef to achieve desired state configuration
 
 how does ansible configure the production server
+
+This questions set by Mihir
