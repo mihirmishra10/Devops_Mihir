@@ -1,6 +1,6 @@
 Which statement best describes the role of Change Management within a DevOps environment?
 
-what is the process of Continuous deployement
+what is the process of Continuous deployement added globally
 At what level containerixation offer virtualize to support application deployement
 
 
